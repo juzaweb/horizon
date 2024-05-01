@@ -23,7 +23,8 @@
         }
     },
     "require": {
-        "php": "^8.0|^8.1"
+        "php": "^8.0|^8.1",
+        "laravel/horizon": "^5.22"
     },
     "require-dev": {
          "juzaweb/modules": "^1.0",
